@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90f3c25e-f5b0-488a-b6a8-50dd508ddbd8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1q4DyoihHsrjGwk0EzsQU0vrp3X" />
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="loan.quote.validator" />
+      <recent name="loan.quote.service" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="loan.quote.validator" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.LoanQuoteServiceTest.validateLoanQuoteResultPassWhenCorrectQuoteIsReturned">
+    <configuration name="LoanQuoteServiceTest.validateListOfLendersPassWhenNoDuplicates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loan.quote.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="loan.quote.service" />
+      <option name="MAIN_CLASS_NAME" value="loan.quote.service.LoanQuoteServiceTest" />
+      <option name="METHOD_NAME" value="validateListOfLendersPassWhenNoDuplicates" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoanQuoteServiceTest.validateLoanQuoteResultPassWhenCorrectQuoteIsReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loan.quote.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="loan.quote.service" />
+      <option name="MAIN_CLASS_NAME" value="loan.quote.service.LoanQuoteServiceTest" />
+      <option name="METHOD_NAME" value="validateLoanQuoteResultPassWhenCorrectQuoteIsReturned" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoanQuoteServiceTest.validateLoanQuoteResultPassWhenLoanAmountNotAvailableAndAppropriateMessageReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loan.quote.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="loan.quote.service" />
+      <option name="MAIN_CLASS_NAME" value="loan.quote.service.LoanQuoteServiceTest" />
+      <option name="METHOD_NAME" value="validateLoanQuoteResultPassWhenLoanAmountNotAvailableAndAppropriateMessageReturned" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoanQuoteServiceTest.validateLoanQuoteResultPassWhenRequestedAmountIsAdjustedToNearestIncrementOfHundred" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loan.quote.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="loan.quote.service" />
+      <option name="MAIN_CLASS_NAME" value="loan.quote.service.LoanQuoteServiceTest" />
+      <option name="METHOD_NAME" value="validateLoanQuoteResultPassWhenRequestedAmountIsAdjustedToNearestIncrementOfHundred" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoanQuoteServiceTest.validateLoanQuoteResultPassWhenRequestedAmountNotAdjusted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loan.quote.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="loan.quote.service" />
+      <option name="MAIN_CLASS_NAME" value="loan.quote.service.LoanQuoteServiceTest" />
+      <option name="METHOD_NAME" value="validateLoanQuoteResultPassWhenRequestedAmountNotAdjusted" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoanQuoteServiceTest.validateLoanQuoteResultPassWhenCorrectQuoteIsReturned" />
+        <item itemvalue="JUnit.LoanQuoteServiceTest.validateLoanQuoteResultPassWhenRequestedAmountNotAdjusted" />
+        <item itemvalue="JUnit.LoanQuoteServiceTest.validateLoanQuoteResultPassWhenRequestedAmountIsAdjustedToNearestIncrementOfHundred" />
+        <item itemvalue="JUnit.LoanQuoteServiceTest.validateLoanQuoteResultPassWhenLoanAmountNotAvailableAndAppropriateMessageReturned" />
+        <item itemvalue="JUnit.LoanQuoteServiceTest.validateListOfLendersPassWhenNoDuplicates" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90f3c25e-f5b0-488a-b6a8-50dd508ddbd8" name="Default Changelist" comment="" />
+      <created>1616330225065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616330225065</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
